@@ -1,0 +1,27 @@
+@media (max-width:1024px) {
+
+    .nav {
+        display: none;
+    }
+
+    .burger {
+        display: flex;
+    }
+
+    .header {
+        padding-top: 50px;
+    }
+
+    .head-div {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+
+}
+
+@media (max-widh:480px) {
+    .logo {}
+}
