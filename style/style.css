@@ -4,17 +4,30 @@
 }
 
 .conteiner {
-    max-width: 1708px;
+    max-width: 1920px;
     margin: 0 auto;
+}
+
+.header {
+    width: 100%;
+    position: fixed;
+    padding-top: 67px;
+    top: 0;
+    left: 0;
+    z-index: 100;
+
 }
 
 .head-div {
     display: flex;
-    justify-content: space-between;
-
+    align-items: center;
+    justify-content: space-around;
 }
 
 .ul-nav {
     display: flex;
-    
+}
+
+.nav-link1:not(:last-child){
+    margin-right: 20px;
 }

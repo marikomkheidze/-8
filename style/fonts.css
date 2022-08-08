@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Lato';
+    src: url(.../fonts/'Lato-Regular.eot');
+    src: url(.../fonts/'Lato-Regular.eot?#iefix') format('embedded-opentype'),
+        url(.../fonts/'Lato-Regular.woff2') format('woff2'),
+        url(.../fonts/'Lato-Regular.woff') format('woff'),
+        url(.../fonts/'Lato-Regular.ttf') format('truetype'),
+        url(.../fonts/'Lato-Regular.svg#Lato-Regular') format('svg');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url(.../fonts/'Roboto-Regular.eot');
+    src: url(.../fonts/'Roboto-Regular.eot?#iefix') format('embedded-opentype'),
+        url(.../fonts/'Roboto-Regular.woff2') format('woff2'),
+        url(.../fonts/'Roboto-Regular.woff') format('woff'),
+        url(.../fonts/'Roboto-Regular.ttf') format('truetype'),
+        url(.../fonts/'Roboto-Regular.svg#Roboto-Regular') format('svg');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url(.../fonts/'Poppins-Regular.eot');
+    src: url(.../fonts/'Poppins-Regular.eot?#iefix') format('embedded-opentype'),
+        url(.../fonts/'Poppins-Regular.woff2') format('woff2'),
+        url(.../fonts/'Poppins-Regular.woff') format('woff'),
+        url(.../fonts/'Poppins-Regular.ttf') format('truetype'),
+        url(.../fonts/'Poppins-Regular.svg#Poppins-Regular') format('svg');
+}
+
+/* რატომ აგდებს პროგრამა ერორებს?  */
